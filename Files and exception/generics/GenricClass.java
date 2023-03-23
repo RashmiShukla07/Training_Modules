@@ -8,7 +8,7 @@ class Test<T>{
     }
 }
 
-public class genClass {
+class GenricClass {
     public static void main(String[] args){
         Test<Integer> ob1 = new Test<Integer>(15);
         System.out.println(ob1.getObject());

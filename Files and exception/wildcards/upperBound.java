@@ -4,7 +4,7 @@ import java.util.List;
 //These wildcards can be used when you want to relax the restrictions on a variable.
 //To declare an upper-bounded wildcard, use the wildcard character (‘?’), followed by the extends keyword, followed by its upper bound. 
 
-public class upperBound {
+class UpperBound {
     public static void main(String[] args)
     {
  

@@ -1,7 +1,7 @@
 //Generics solve issues of type-safety in older version of java 
 import java.util.ArrayList;
 
-public class demo {
+class Demo {
     public static void main(String[] args)
     {
         // Creating a an ArrayList with String specified
