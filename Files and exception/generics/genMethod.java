@@ -9,7 +9,7 @@ class GenricMethod {
             genericDisplay(11);
      
             // Calling generic method with String argument
-            genericDisplay("GeeksForGeeks");
+            genericDisplay("Print this");
      
             // Calling generic method with double argument
             genericDisplay(1.0);
