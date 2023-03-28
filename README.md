@@ -5,3 +5,4 @@
 3. Training_on_Operators
 4. Training_on_Oops
 5. Files and Exceptions
+6. Collections and Java 8
